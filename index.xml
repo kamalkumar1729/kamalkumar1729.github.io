@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>New Beginnings !!</title>
+    <link>https://kamalkumar1729.github.io/</link>
+    <description>Recent content on New Beginnings !!</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 20 Aug 2017 21:38:52 +0800</lastBuildDate>
+    
+	<atom:link href="https://kamalkumar1729.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>About</title>
+      <link>https://kamalkumar1729.github.io/about/</link>
+      <pubDate>Sun, 20 Aug 2017 21:38:52 +0800</pubDate>
+      
+      <guid>https://kamalkumar1729.github.io/about/</guid>
+      <description>Hi, I am Kamal. I have written some code in JavaScript, Scala and Java.</description>
+    </item>
+    
+    <item>
+      <title>Myfirstpost</title>
+      <link>https://kamalkumar1729.github.io/post/myfirstpost/</link>
+      <pubDate>Sat, 06 Apr 2019 23:37:46 +0530</pubDate>
+      
+      <guid>https://kamalkumar1729.github.io/post/myfirstpost/</guid>
+      <description> This is Kamal </description>
+    </item>
+    
+  </channel>
+</rss>
